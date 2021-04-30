@@ -1,22 +1,10 @@
-/* .wrapper {
-    position: relative;
-    width: 100%;
-    height:300px;
-    border: 1px solid black;
-}
-img{
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-} */
-
 .examples{
+  text-align: ce;
+}
+.rounded{
 transition: 1.2s ease;
 display: block; margin-left: auto; margin-right: auto;
 }
-.examples:hover{
+.rounded:hover{
 transform : scale(1.20);
 }
